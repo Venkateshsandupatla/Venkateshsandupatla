@@ -1,8 +1,10 @@
- Hi Everyone 👋
+### Hello Everyone, I'm a tech enthusiast.
+
 ~ 🔭 I am intrested in DevOps and MachineLearning. <br/>
 ~ 🌱 I’m currently learning ... WebDevelopment :computer: <br/>
-~  I love to integrate technologies and build projects.
-I'm a persistent explorer of different technologies and dedicated to the process of learning.
+~  I love to integrate technologies and build projects. <br/>
+~  :loop: I'm a persistent explorer of different technologies and dedicated to the process of learning. <br/>
+~ 
 
 
 
