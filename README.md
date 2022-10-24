@@ -1,6 +1,7 @@
 ### Hi Everyone 👋
-I am intrested in DevOps and MachineLearning.
-🌱 I’m currently learning ... WebDevelopment :computer:
+~ 🔭 I am intrested in DevOps and MachineLearning.
+~ 🌱 I’m currently learning ... WebDevelopment :computer:
+~  I love to integrate technologies and build projects.
 
 
 
