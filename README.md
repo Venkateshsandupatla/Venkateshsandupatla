@@ -2,10 +2,9 @@
 
 ~ 🔭 I am intrested in DevOps and MachineLearning. <br/>
 ~ 🌱 I’m currently learning ... WebDevelopment :computer: <br/>
-~  I love to integrate technologies and build projects. <br/>
+~ 😄 I love to integrate technologies and build projects. <br/>
 ~  :loop: I'm a persistent explorer of different technologies and dedicated to the process of learning. <br/>
-~ 
-
+- 📫 Mail me at: venkateshsandupatla03@gmail.com
 
 
 
