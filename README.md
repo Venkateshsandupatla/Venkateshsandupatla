@@ -1,4 +1,4 @@
-### Hello Everyone, I'm a tech enthusiast.
+### Hello Everyone, I'm actively looking for full-time positions and Internships.
 
 ~ 🔭 I am intrested in DevOps and MachineLearning. <br/>
 ~ 🌱 I’m currently learning ... WebDevelopment :computer: <br/>
