@@ -3,7 +3,7 @@
 ~ 🔭 I am interested in WebDevelopment. <br/>
 ~ 😄 I love to integrate technologies and build projects. <br/>
 ~  :loop: I'm a persistent explorer of different technologies and dedicated to the process of learning. <br/>
-- 📫 Mail me at: venkateshsandupatla4@gmail.com
+- 📫 Mail me at: venkateshsandupatla67@gmail.com
 
 
 
